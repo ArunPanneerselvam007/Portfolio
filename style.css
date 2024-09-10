@@ -34,6 +34,7 @@
 			border:5px solid purple;
 			padding: 10px;
 			margin: 10px;
+			border-radius: 10px;
 		}
 
 		p
@@ -56,6 +57,7 @@
     			height: 40vh;
     			display: flex;
     			margin-top:50px;
+				border-radius: 10px;
   		}
 
 		.menu
