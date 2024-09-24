@@ -187,6 +187,8 @@
 		}
 		.contact a
 		{
+		 
+			border:2px solid #99D9EA;
 			border-radius: 10px;
 			display: inline-block;
 			font-size: 15px;
